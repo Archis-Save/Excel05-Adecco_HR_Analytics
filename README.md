@@ -11,4 +11,4 @@ Through PivotTables, scatter plots, correlation analysis, and calculated fields,
 Overall, the project enables Adecco India to develop targeted retention strategies, improve employee engagement, optimize career development programs, strengthen compensation policies, and ultimately reduce turnover. This HR analytics approach empowers the organization to build a more stable, motivated, and high-performing workforce.  
 
 Screenshot of Dashboard:-  
-![1]()
+![1](https://github.com/Archis-Save/Excel05-Adecco_HR_Analytics/blob/main/05.PNG)
